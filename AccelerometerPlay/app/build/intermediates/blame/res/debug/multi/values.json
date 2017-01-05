@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/nose/Sync/Ich/AndroDev/AccelerometerPlay/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/nose/Sync/Ich/AndroDev/AccelerometerPlay/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 54,
+                        "endOffset": 737
+                    }
+                }
+            }
+        ]
+    }
+]
